@@ -1,22 +1,12 @@
+<div align="center">
+
 # linkedin-skill
 
 ### *失敗はない。まだ正しく語られていないだけ。*
 
-<details>
-
-> 関連仕事が十分なら、イノベ不足ではなく「堅実な文献カバレッジ」だけ。  
-> 実験が複雑なら、有意でない結果ではなく「まだ収束していない条件」だけ。  
-> 図が十分きれいなら、結論が弱いのではなく「初歩だが安定した観察」だけ。  
-> 問題が十分オープンなら、できないことはなく「長期探索に値する方向」だけ。  
-> マッチ度が十分あいまいなら、合わないのではなく「まだ探している適合」だけ。  
-> 目標が十分長期なら、短期結果はなく「戦略的な忍耐」だけ。  
-> 方向がずっと調整中なら、道を誤ったのではなく「動的最適化の意思決定」だけ。
-
-</details>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/repo-linkedin--skill-blue?logo=github)](https://github.com/mdyao/linkedin-skill)
-[![Stars](https://img.shields.io/github/stars/mdyao/linkedin-skill?style=social)](https://github.com/mdyao/linkedin-skill/stargazers)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-2ea44f)](https://agentskills.io)
 [![SKILL.md](https://img.shields.io/badge/entry-SKILL.md-5c4ee5)](SKILL.md)
 
@@ -26,21 +16,40 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-teal)](https://github.com/mdyao/linkedin-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-skill-orange)](https://github.com/mdyao/linkedin-skill)
 
-残業と言うな。**high-frequency human capital deployment** と言え。
+## 😵 心当たりありませんか？
+- まだ終わっていないのに、明日もうゼミ発表？
+- 実験結果は平凡なのに、上司に「段階的ブレークスルー」を示せと言われる？
+- プロジェクトがまだ詰まっているのに、どう説明する？
+- PPTが未完成なのに、締切が迫っている？
+- コードがまだ通っていないのに、外部に進捗を報告しなければならない？
+- 不安は山ほどあるのに、LinkedInでは笑顔で営業しなければならない？
 
-それは **high-frequency human capital deployment** だ。
+残業と言うな。**high-frequency human capital deployment** と言え。
 
 解雇と言うな。**career-path decentralization** だ。
 
 メンタルブレと言うな。**deep-tissue organizational empathy 
 building** だ。
 
-
 **linkedin-skill** は現実を直さない。現実が**どう聞こえていいか**を整える。
 
-**言語** · [![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-2ea44f?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
+[![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-2ea44f?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
 
 [デモ](#デモ) · [これは何か](#これは何か) · [トリガー](#トリガー) · [リファレンス](#リファレンススタック) · [インストール](#インストール) · [使い方](#使い方)
+
+</div>
+
+## 私たちの解決策
+
+
+> 関連仕事が十分なら、イノベ不足ではなく「堅実な文献カバレッジ」だけ。  
+> 実験が複雑なら、有意でない結果ではなく「まだ収束していない条件」だけ。  
+> 図が十分きれいなら、結論が弱いのではなく「初歩だが安定した観察」だけ。  
+> 問題が十分オープンなら、できないことはなく「長期探索に値する方向」だけ。  
+> マッチ度が十分あいまいなら、合わないのではなく「まだ探している適合」だけ。  
+> 目標が十分長期なら、短期結果はなく「戦略的な忍耐」だけ。  
+> 方向がずっと調整中なら、道を誤ったのではなく「動的最適化の意思決定」だけ。
+
 
 ## デモ
 

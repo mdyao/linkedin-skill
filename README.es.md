@@ -1,22 +1,12 @@
+<div align="center">
+
 # linkedin-skill
 
 ### *Nada falla. Solo aún no se ha narrado bien.*
 
-<details>
-
-> Con suficiente trabajo relacionado, no hay escasez de innovación, solo «cobertura bibliográfica sólida».  
-> Con experimento suficientemente complejo, no hay resultado no significativo, solo «condiciones aún no convergentes».  
-> Con figuras suficientemente pulidas, no hay conclusión débil, solo «observaciones preliminares pero estables».  
-> Con problema suficientemente abierto, no hay imposible, solo «dirección de investigación que merece el largo plazo».  
-> Con encaje suficientemente vago, no hay inadecuación, solo «espacio de ajuste aún en exploración».  
-> Con objetivo suficientemente largo, no hay resultado a corto plazo, solo «paciencia estratégica».  
-> Con el rumbo siempre ajustándose, no hay camino equivocado, solo «proceso de decisión optimizado dinámicamente».
-
-</details>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/repo-linkedin--skill-blue?logo=github)](https://github.com/mdyao/linkedin-skill)
-[![Stars](https://img.shields.io/github/stars/mdyao/linkedin-skill?style=social)](https://github.com/mdyao/linkedin-skill/stargazers)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-2ea44f)](https://agentskills.io)
 [![SKILL.md](https://img.shields.io/badge/entry-SKILL.md-5c4ee5)](SKILL.md)
 
@@ -26,21 +16,40 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-teal)](https://github.com/mdyao/linkedin-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-skill-orange)](https://github.com/mdyao/linkedin-skill)
 
-No digas horas extra: es **high-frequency human capital deployment**.
+## 😵 ¿Te suena familiar?
+- Sin terminar, pero mañana la presentación al grupo?
+- Resultados flojos, pero tu jefe quiere “un avance por fases”?
+- El proyecto atascado, ¿qué explicas?
+- PPT sin cerrar y el deadline encima?
+- El código no corre pero tienes que informar del progreso?
+- Por dentro ansioso, pero en LinkedIn hay que sonreír?
 
-Es **high-frequency human capital deployment**.
+No digas horas extra: es **high-frequency human capital deployment**.
 
 No digas despido: es **career-path decentralization**.
 
 No digas burnout: es **deep-tissue organizational empathy 
 building**.
 
-
 **linkedin-skill** no arregla la realidad. Arregla **cómo se permite que suene la realidad**.
 
-**Idiomas** · [![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-2ea44f?style=flat-square)](README.es.md)
+[![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-2ea44f?style=flat-square)](README.es.md)
 
 [Demo](#demo) · [Qué es](#qué-es) · [Disparadores](#disparadores) · [Pila de referencia](#pila-de-referencia) · [Instalación](#instalación) · [Uso](#uso)
+
+</div>
+
+## Nuestra solución
+
+
+> Con suficiente trabajo relacionado, no hay escasez de innovación, solo «cobertura bibliográfica sólida».  
+> Con experimento suficientemente complejo, no hay resultado no significativo, solo «condiciones aún no convergentes».  
+> Con figuras suficientemente pulidas, no hay conclusión débil, solo «observaciones preliminares pero estables».  
+> Con problema suficientemente abierto, no hay imposible, solo «dirección de investigación que merece el largo plazo».  
+> Con encaje suficientemente vago, no hay inadecuación, solo «espacio de ajuste aún en exploración».  
+> Con objetivo suficientemente largo, no hay resultado a corto plazo, solo «paciencia estratégica».  
+> Con el rumbo siempre ajustándose, no hay camino equivocado, solo «proceso de decisión optimizado dinámicamente».
+
 
 ## Demo
 

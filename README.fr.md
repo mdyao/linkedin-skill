@@ -1,22 +1,12 @@
+<div align="center">
+
 # linkedin-skill
 
 ### *Rien n’échoue. Ce n’est pas encore raconté correctement.*
 
-<details>
-
-> Assez de travaux connexes : pas d’innovation insuffisante, seulement une « couverture bibliographique solide ».  
-> Assez de complexité expérimentale : pas de résultat non significatif, seulement des « conditions pas encore convergentes ».  
-> Assez de belles figures : pas de conclusion faible, seulement des « observations préliminaires mais stables ».  
-> Assez de problème ouvert : rien d’impossible, seulement une « direction de recherche qui vaut le long terme ».  
-> Assez de flou sur l’adéquation : pas d’inadéquation, seulement un « espace d’ajustement encore exploré ».  
-> Assez d’objectif long terme : pas de résultat court terme, seulement une « patience stratégique ».  
-> Assez d’ajustements de cap : pas de mauvaise route, seulement un « processus décisionnel dynamiquement optimisé ».
-
-</details>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/repo-linkedin--skill-blue?logo=github)](https://github.com/mdyao/linkedin-skill)
-[![Stars](https://img.shields.io/github/stars/mdyao/linkedin-skill?style=social)](https://github.com/mdyao/linkedin-skill/stargazers)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-2ea44f)](https://agentskills.io)
 [![SKILL.md](https://img.shields.io/badge/entry-SKILL.md-5c4ee5)](SKILL.md)
 
@@ -26,21 +16,40 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-teal)](https://github.com/mdyao/linkedin-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-skill-orange)](https://github.com/mdyao/linkedin-skill)
 
-Ne dites pas heures sup : c’est du **high-frequency human capital deployment**.
+## 😵 Ça vous parle ?
+- Pas fini, mais la présentation demain au groupe ?
+- Résultats moyens, mais le patron veut « une avancée par paliers » ?
+- Projet bloqué — comment expliquer ?
+- PPT pas bouclé, mais le deadline est là ?
+- Code pas encore stable, mais il faut rapporter aux autres ?
+- Anxieux à l’intérieur, mais sourire sur LinkedIn ?
 
-C’est du **high-frequency human capital deployment**.
+Ne dites pas heures sup : c’est du **high-frequency human capital deployment**.
 
 Ne dites pas licenciement : c’est de la **career-path decentralization**.
 
 Ne dites pas burn-out : c’est du **deep-tissue organizational empathy 
 building**.
 
-
 **linkedin-skill** ne répare pas la réalité. Il répare **comment la réalité a le droit de sonner**.
 
-**Langues** · [![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-2ea44f?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
+[![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-2ea44f?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
 
 [Démo](#démo) · [Qu’est-ce que c’est](#quest-ce-que-cest) · [Déclencheurs](#déclencheurs) · [Pile de référence](#pile-de-référence) · [Installation](#installation) · [Utilisation](#utilisation)
+
+</div>
+
+## Notre solution
+
+
+> Assez de travaux connexes : pas d’innovation insuffisante, seulement une « couverture bibliographique solide ».  
+> Assez de complexité expérimentale : pas de résultat non significatif, seulement des « conditions pas encore convergentes ».  
+> Assez de belles figures : pas de conclusion faible, seulement des « observations préliminaires mais stables ».  
+> Assez de problème ouvert : rien d’impossible, seulement une « direction de recherche qui vaut le long terme ».  
+> Assez de flou sur l’adéquation : pas d’inadéquation, seulement un « espace d’ajustement encore exploré ».  
+> Assez d’objectif long terme : pas de résultat court terme, seulement une « patience stratégique ».  
+> Assez d’ajustements de cap : pas de mauvaise route, seulement un « processus décisionnel dynamiquement optimisé ».
+
 
 ## Démo
 

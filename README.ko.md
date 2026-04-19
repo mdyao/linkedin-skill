@@ -1,22 +1,12 @@
+<div align="center">
+
 # linkedin-skill
 
 ### *실패는 없다. 아직 제대로 내러티브되지 않았을 뿐이다.*
 
-<details>
-
-> 관련 연구가 충분하면 혁신 부족이 아니라 「탄탄한 문헌 커버리지」뿐이다.  
-> 실험이 충분히 복잡하면 결과가 유의하지 않은 게 아니라 「아직 수렴하지 않은 조건」뿐이다.  
-> 그림이 충분히 정교하면 결론이 약한 게 아니라 「초기이지만 안정된 관찰」뿐이다.  
-> 질문이 충분히 열려 있으면 못 하는 게 아니라 「장기 탐구할 만한 방향」뿐이다.  
-> 매칭이 충분히 모호하면 안 맞는 게 아니라 「아직 탐색 중인 적합 공간」뿐이다.  
-> 목표가 충분히 장기면 단기 결과가 없는 게 아니라 「전략적 인내」뿐이다.  
-> 방향이 계속 조정되면 길을 잘못 든 게 아니라 「동적 최적화 의사결정」뿐이다.
-
-</details>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/repo-linkedin--skill-blue?logo=github)](https://github.com/mdyao/linkedin-skill)
-[![Stars](https://img.shields.io/github/stars/mdyao/linkedin-skill?style=social)](https://github.com/mdyao/linkedin-skill/stargazers)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-2ea44f)](https://agentskills.io)
 [![SKILL.md](https://img.shields.io/badge/entry-SKILL.md-5c4ee5)](SKILL.md)
 
@@ -26,21 +16,40 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-teal)](https://github.com/mdyao/linkedin-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-skill-orange)](https://github.com/mdyao/linkedin-skill)
 
-야근이라 말하지 말라. 그건 **high-frequency human capital deployment**다.
+## 😵 나만 이런가요?
+- 아직 다 못 끝냈는데 내일이 팀 미팅 발표?
+- 실험 결과는 그저 그런데 상사에게 “단계적 돌파”를 보여줘야 한다?
+- 프로젝트는 막혀 있는데 어떻게 설명해야 하지?
+- PPT는 미완인데 마감은 코앞?
+- 코드는 아직 안 돌아가는데 밖에 진행 보고를 해야 한다?
+- 속은 불안한데 LinkedIn에서는 웃으며 보여야 한다?
 
-그건 **high-frequency human capital deployment**다.
+야근이라 말하지 말라. 그건 **high-frequency human capital deployment**다.
 
 해고라 말하지 말라. 그건 **career-path decentralization**다.
 
 번 아웃이라 말하지 말라. 그건 **deep-tissue organizational empathy 
 building**다.
 
-
 **linkedin-skill**은 현실을 고치지 않는다. 현실이 **어떻게 들리도록 허용될지**를 고친다.
 
-**언어** · [![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-2ea44f?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
+[![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-2ea44f?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
 
 [데모](#데모) · [무엇인가](#무엇인가) · [트리거](#트리거) · [참고 스택](#참고-스택) · [설치](#설치) · [사용](#사용)
+
+</div>
+
+## 우리의 해답
+
+
+> 관련 연구가 충분하면 혁신 부족이 아니라 「탄탄한 문헌 커버리지」뿐이다.  
+> 실험이 충분히 복잡하면 결과가 유의하지 않은 게 아니라 「아직 수렴하지 않은 조건」뿐이다.  
+> 그림이 충분히 정교하면 결론이 약한 게 아니라 「초기이지만 안정된 관찰」뿐이다.  
+> 질문이 충분히 열려 있으면 못 하는 게 아니라 「장기 탐구할 만한 방향」뿐이다.  
+> 매칭이 충분히 모호하면 안 맞는 게 아니라 「아직 탐색 중인 적합 공간」뿐이다.  
+> 목표가 충분히 장기면 단기 결과가 없는 게 아니라 「전략적 인내」뿐이다.  
+> 방향이 계속 조정되면 길을 잘못 든 게 아니라 「동적 최적화 의사결정」뿐이다.
+
 
 ## 데모
 

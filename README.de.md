@@ -1,22 +1,12 @@
+<div align="center">
+
 # linkedin-skill
 
 ### *Nichts scheitert. Es wurde nur noch nicht richtig erzählt.*
 
-<details>
-
-> Genug Related Work — dann gibt es keine mangelnde Innovation, nur „solide Literaturabdeckung“.  
-> Genug Experimentkomplexität — dann gibt es kein insignifikantes Ergebnis, nur „noch nicht konvergierte Bedingungen“.  
-> Genug schöne Figuren — dann keine schwache Schlussfolgerung, nur „vorläufige, aber stabile Beobachtungen“.  
-> Genug offene Fragestellung — dann nichts Unmachbares, nur „langfristig lohnende Forschungsrichtung“.  
-> Genug vage Passung — dann nichts Unpassendes, nur „noch erkundeter Passungsraum“.  
-> Genug langfristiges Ziel — dann kein kurzfristiges Ergebnis, nur „strategische Geduld“.  
-> Genug Richtungsanpassung — dann kein falscher Weg, nur „dynamisch optimierter Entscheidungsprozess“.
-
-</details>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/repo-linkedin--skill-blue?logo=github)](https://github.com/mdyao/linkedin-skill)
-[![Stars](https://img.shields.io/github/stars/mdyao/linkedin-skill?style=social)](https://github.com/mdyao/linkedin-skill/stargazers)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-2ea44f)](https://agentskills.io)
 [![SKILL.md](https://img.shields.io/badge/entry-SKILL.md-5c4ee5)](SKILL.md)
 
@@ -26,21 +16,40 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-teal)](https://github.com/mdyao/linkedin-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-skill-orange)](https://github.com/mdyao/linkedin-skill)
 
-Sag nicht Überstunden — das ist **high-frequency human capital deployment**.
+## 😵 Kommt euch das auch vor?
+- Noch nicht fertig, aber morgen schon die Gruppenvorstellung?
+- Mittelmäßige Ergebnisse, aber der Chef will „Meilenstein-Durchbrüche“?
+- Projekt steckt fest — aber wie erklären?
+- PPT noch nicht fertig, aber die Deadline ist da?
+- Code läuft noch nicht, aber du sollst extern Fortschritt melden?
+- Eigentlich panisch, aber auf LinkedIn lächeln?
 
-Das ist **high-frequency human capital deployment**.
+Sag nicht Überstunden — das ist **high-frequency human capital deployment**.
 
 Sag nicht Entlassung — das ist **career-path decentralization**.
 
 Sag nicht Burnout — das ist **deep-tissue organizational empathy 
 building**.
 
-
 **linkedin-skill** repariert die Realität nicht. Es repariert, **wie die Realität klingen darf**.
 
-**Sprachen** · [![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-2ea44f?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
+[![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-2ea44f?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
 
 [Demo](#demo) · [Was es ist](#was-es-ist) · [Auslöser](#auslöser) · [Referenz-Stack](#referenz-stack) · [Installation](#installation) · [Nutzung](#nutzung)
+
+</div>
+
+## Unsere Lösung
+
+
+> Genug Related Work — dann gibt es keine mangelnde Innovation, nur „solide Literaturabdeckung“.  
+> Genug Experimentkomplexität — dann gibt es kein insignifikantes Ergebnis, nur „noch nicht konvergierte Bedingungen“.  
+> Genug schöne Figuren — dann keine schwache Schlussfolgerung, nur „vorläufige, aber stabile Beobachtungen“.  
+> Genug offene Fragestellung — dann nichts Unmachbares, nur „langfristig lohnende Forschungsrichtung“.  
+> Genug vage Passung — dann nichts Unpassendes, nur „noch erkundeter Passungsraum“.  
+> Genug langfristiges Ziel — dann kein kurzfristiges Ergebnis, nur „strategische Geduld“.  
+> Genug Richtungsanpassung — dann kein falscher Weg, nur „dynamisch optimierter Entscheidungsprozess“.
+
 
 ## Demo
 

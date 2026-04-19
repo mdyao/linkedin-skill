@@ -1,22 +1,12 @@
+<div align="center">
+
 # linkedin-skill
 
 ### *没有失败，只是还没被正确叙事。*
 
-<details>
-
-> 只要相关工作够多，就没有创新不足，只有「扎实的文献覆盖」。  
-> 只要实验够复杂，就没有结果不显著，只有「尚未收敛的实验条件」。  
-> 只要图画得够精致，就没有结论薄弱，只有「初步但稳定的观察结果」。  
-> 只要问题够开放，就没有做不出来，只有「值得长期探索的研究方向」。  
-> 只要匹配度够模糊，就没有不合适，只有「仍在探索的契合空间」。  
-> 只要目标够长期，就没有短期结果，只有「战略层面的耐心」。  
-> 只要方向一直在调整，就没有走错路，只有「动态优化的决策过程」。
-
-</details>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/repo-linkedin--skill-blue?logo=github)](https://github.com/mdyao/linkedin-skill)
-[![Stars](https://img.shields.io/github/stars/mdyao/linkedin-skill?style=social)](https://github.com/mdyao/linkedin-skill/stargazers)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-2ea44f)](https://agentskills.io)
 [![SKILL.md](https://img.shields.io/badge/entry-SKILL.md-5c4ee5)](SKILL.md)
 
@@ -26,21 +16,40 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-teal)](https://github.com/mdyao/linkedin-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-skill-orange)](https://github.com/mdyao/linkedin-skill)
 
-别说加班，那叫 **high-frequency human capital deployment**。
+## 😵 你是不是也这样？
+- 明明没做完，但明天就要组会汇报？
+- 实验结果很一般，但老板要你展示“阶段性突破”？
+- 项目还在卡住，你怎么解释？
+- PPT还没收尾，但 deadline 就在眼前？
+- 代码还没跑通，但你要对外汇报进展？
+- 你其实很焦虑，但仍要微笑在领英营业？
 
-那叫 **high-frequency human capital deployment**。
+别说加班，那叫 **high-frequency human capital deployment**。
 
 别说被裁，那是 **career-path decentralization**。
 
 别说崩溃，那是 **deep-tissue organizational empathy 
 building**。
 
-
 **linkedin-skill** 不修补现实。它修补的是现实被允许听起来怎样。
 
-**语言** · [![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-2ea44f?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
+[![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-2ea44f?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
 
 [演示](#演示) · [它是什么](#它是什么) · [触发方式](#触发方式) · [参考栈](#参考栈) · [安装](#安装) · [使用](#使用)
+
+</div>
+
+## 我们的解法
+
+
+> 只要相关工作够多，就没有创新不足，只有「扎实的文献覆盖」。  
+> 只要实验够复杂，就没有结果不显著，只有「尚未收敛的实验条件」。  
+> 只要图画得够精致，就没有结论薄弱，只有「初步但稳定的观察结果」。  
+> 只要问题够开放，就没有做不出来，只有「值得长期探索的研究方向」。  
+> 只要匹配度够模糊，就没有不合适，只有「仍在探索的契合空间」。  
+> 只要目标够长期，就没有短期结果，只有「战略层面的耐心」。  
+> 只要方向一直在调整，就没有走错路，只有「动态优化的决策过程」。
+
 
 ## 演示
 
