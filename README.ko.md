@@ -1,20 +1,18 @@
-<div align="center">
-
 # linkedin-skill
 
-### *Nothing fails. It just hasn’t been narrated correctly yet.*
+### *실패는 없다. 아직 제대로 내러티브되지 않았을 뿐이다.*
 
+<details>
 
+> 관련 연구가 충분하면 혁신 부족이 아니라 「탄탄한 문헌 커버리지」뿐이다.  
+> 실험이 충분히 복잡하면 결과가 유의하지 않은 게 아니라 「아직 수렴하지 않은 조건」뿐이다.  
+> 그림이 충분히 정교하면 결론이 약한 게 아니라 「초기이지만 안정된 관찰」뿐이다.  
+> 질문이 충분히 열려 있으면 못 하는 게 아니라 「장기 탐구할 만한 방향」뿐이다.  
+> 매칭이 충분히 모호하면 안 맞는 게 아니라 「아직 탐색 중인 적합 공간」뿐이다.  
+> 목표가 충분히 장기면 단기 결과가 없는 게 아니라 「전략적 인내」뿐이다.  
+> 방향이 계속 조정되면 길을 잘못 든 게 아니라 「동적 최적화 의사결정」뿐이다.
 
-> 只要相关工作够多，就没有创新不足，只有「扎实的文献覆盖」。  
-> 只要实验够复杂，就没有结果不显著，只有「尚未收敛的实验条件」。  
-> 只要图画得够精致，就没有结论薄弱，只有「初步但稳定的观察结果」。  
-> 只要问题够开放，就没有做不出来，只有「值得长期探索的研究方向」。  
-> 只要匹配度够模糊，就没有不合适，只有「仍在探索的契合空间」。  
-> 只要目标够长期，就没有短期结果，只有「战略层面的耐心」。  
-> 只要方向一直在调整，就没有走错路，只有「动态优化的决策过程」。
-
-
+</details>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/repo-linkedin--skill-blue?logo=github)](https://github.com/mdyao/linkedin-skill)
@@ -28,28 +26,25 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-teal)](https://github.com/mdyao/linkedin-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-skill-orange)](https://github.com/mdyao/linkedin-skill)
 
-别说加班，那叫 **high-frequency human capital deployment**。
+야근이라 말하지 말라. 그건 **high-frequency human capital deployment**다.
 
-那叫 **high-frequency human capital deployment**。
+그건 **high-frequency human capital deployment**다.
 
-别说被裁，那是 **career-path decentralization**。
+해고라 말하지 말라. 그건 **career-path decentralization**다.
+
+번 아웃이라 말하지 말라. 그건 **deep-tissue organizational empathy 
+building**다.
 
 
-别说崩溃，那是 **deep-tissue organizational empathy 
-building**。
+**linkedin-skill**은 현실을 고치지 않는다. 현실이 **어떻게 들리도록 허용될지**를 고친다.
 
+**언어** · [![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-2ea44f?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
 
-**linkedin-skill** doesn’t fix reality. It fixes how reality is allowed to sound.
+[데모](#데모) · [무엇인가](#무엇인가) · [트리거](#트리거) · [참고 스택](#참고-스택) · [설치](#설치) · [사용](#사용)
 
-**Languages** · [![](https://img.shields.io/badge/English-2ea44f?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
+## 데모
 
-[Demo](#demo) · [What it is](#what-it-is) · [Triggers](#triggers) · [References](#reference-stack) · [Install](#install) · [Usage](#usage)
-
-</div align="center">
-
-## Demo
-
-### Examples
+### 예시
 
 ```text
 /linkedin I did nothing today
@@ -150,7 +145,7 @@ opportunity to demonstrate ownership beyond the clock. 🙏🚀
 #Leadership #Ownership #TeamFirst #GrowthMindset
 ```
 
-### Not work (still cursed)
+### 일이 아님 (그래도 저주받음)
 
 ```text
 /linkedin I ate a cookie
@@ -235,76 +230,75 @@ role. Stay tuned for more updates on this exciting venture! 👶✨🙏
 #NewBeginnings #GrowthMindset #WorkLifeBalance #NextChapter
 ```
 
-### `--reverse`（Stay tuned）
+### `--reverse` (곧 공개)
 
 
 ```
 User     ❯ /linkedin --reverse "After 7 incredible years, I've made the difficult
            decision to begin the next chapter... #NewBeginnings"
 
-linkedin ❯ He got laid off (or resigned right before being pushed out). Seven years,
-           no next role named — that's the tell. 👀
+linkedin ❯ 해고됐거나(밀려나기 직전에 사직). 7년인데 다음 직함 언급 없음 — 그게 단서다. 👀
 
            #RealTalk
 ```
 
 
-More: [SKILL.md §6](SKILL.md) · [references/examples.md](references/examples.md)
+더 보기: [SKILL.md §6](SKILL.md) · [references/examples.md](references/examples.md)
 
 ---
 
-## What it is
+## 무엇인가
 
 | | |
 |--|--|
-| **Is** | A translator that doesn’t fix what happened — only how convincingly it can be explained. |
-| **Is not** | It won’t help you grow. It helps you **sound like you already did**. |
+| **맞다** | 일어난 일을 고치는 번역기가 아니라 — **얼마나 설득력 있게 설명할 수 있는지**만 다룬다. |
+| **아니다** | 성장을 도와주지 않는다. **이미 성장한 것처럼 들리게** 도와준다. |
 
-Full spec: **[SKILL.md](SKILL.md)** (triggers, workflow, easter-egg hashtags, changelog).
+전체 명세: **[SKILL.md](SKILL.md)** (트리거, 워크플로, 이스터에그 해시태그, 변경 로그).
 
 ---
 
-## Triggers
+## 트리거
 
-| Input | Result |
+| 입력 | 결과 |
 |--------|--------|
-| **`/linkedin <text>`** | Forward: press-release tone (English, or Chinese if input is Chinese), upbeat, **3–7 hashtags**. |
-| **`/linkedin --reverse`** / **`--reality`** + text | Decode: plain-English best guess. |
-| Natural language | *LinkedInify* / *领英体* → forward · *说人话* / *decode* → reverse |
+| **`/linkedin <텍스트>`** | 정방향: 보도자료 톤(입력이 중국어면 중국어), 긍정적, **해시태그 3–7개**. |
+| **`/linkedin --reverse`** / **`--reality`** + 텍스트 | 디코드: 단순 영어로 추정. |
+| 자연어 | *LinkedInify* / *领英体* → 정방향 · *说人话* / *decode* → 역방향 |
 
 ---
 
-## Reference stack
+## 참고 스택
 
-| File | Role |
+| 파일 | 역할 |
 |------|------|
-| [style-guide.md](references/style-guide.md) | Openers, inflation, tone |
-| [rhetoric-patterns.md](references/rhetoric-patterns.md) | Short / Long / Humble-brag |
-| [vocabulary.md](references/vocabulary.md) | Jargon ↔ plain mapping |
-| [examples.md](references/examples.md) | Voice calibration samples |
-| [anti-patterns.md](references/anti-patterns.md) | Too human, missing hashtags, etc. |
+| [style-guide.md](references/style-guide.md) | 도입, 부풀리기, 톤 |
+| [rhetoric-patterns.md](references/rhetoric-patterns.md) | 짧게 / 길게 / 겸손 자랑 |
+| [vocabulary.md](references/vocabulary.md) | 전문용어 ↔ 쉬운 말 |
+| [examples.md](references/examples.md) | 톤 보정 샘플 |
+| [anti-patterns.md](references/anti-patterns.md) | 너무 인간적, 해시태그 누락 등 |
 
 ---
 
-## Install
+## 설치
 
-**Needs:** Git (or ZIP). No `pip`, no API keys — only `SKILL.md` + `references/`.
+**필요:** Git(또는 ZIP). `pip` 불필요, API 키 불필요 — `SKILL.md` + `references/`만.
 
 ```bash
 git clone https://github.com/mdyao/linkedin-skill.git
 ```
 
-Put the folder where your host loads skills. **`SKILL.md` must stay at the repo root.**
+호스트가 스킬을 불러오는 위치에 두세요. **`SKILL.md`는 저장소 루트에 있어야 합니다.**
 
-| Host | POSIX | Windows |
+| 호스트 | POSIX | Windows |
 |------|-------|---------|
 | Cursor | `~/.cursor/skills/linkedin-skill` | `%USERPROFILE%\.cursor\skills\linkedin-skill` |
 | Codex | `~/.codex/skills/linkedin-skill` | `%USERPROFILE%\.codex\skills\linkedin-skill` |
 | Claude Code | `~/.claude/skills/linkedin-skill` | `%USERPROFILE%\.claude\skills\linkedin-skill` |
 | OpenClaw | `~/.openclaw/workspace/skills/linkedin-skill` | `%USERPROFILE%\.openclaw\workspace\skills\linkedin-skill` |
-| Hermes | Your docs’ `skills/` path, as `linkedin-skill/` | same idea |
+| Hermes | 문서의 `skills/` 경로에 `linkedin-skill/` | 동일 |
 
-Symlink (optional):
+심볼릭 링크(선택):
 
 ```bash
 ln -s ~/src/linkedin-skill ~/.cursor/skills/linkedin-skill
@@ -314,23 +308,23 @@ ln -s ~/src/linkedin-skill ~/.cursor/skills/linkedin-skill
 New-Item -ItemType Junction -Path "$env:USERPROFILE\.cursor\skills\linkedin-skill" -Target "D:\github_repo\linkedin-skill"
 ```
 
-Reload the agent / workspace. Smoke test: one post block (English or Chinese per input), 3–7 hashtags, no “here’s your translation” wrapper ([SKILL.md](SKILL.md) §5–§6).
+에이전트 / 워크스페이스를 다시 로드. 스모크 테스트: 게시 블록 하나(입력에 따라 영어 또는 중국어), 해시태그 3–7개, 「번역입니다」식 래퍼 없음([SKILL.md](SKILL.md) §5–§6).
 
-You can also ask your agent: clone this repo into the correct skills directory and confirm `SKILL.md` is at the folder root.
-
----
-
-## Usage
-
-1. Paste what happened (one line, rant, recap — anything).
-2. Get **one** post block; no preamble in forward mode.
-3. Decode someone else’s post: `--reverse`, `--reality`, or ask in plain language.
-
-Flags: `--no-easter-egg` / `--easter-egg` — see [SKILL.md](SKILL.md) §4.
+에이전트에게 이 저장소를 올바른 스킬 디렉터리에 클론하고 `SKILL.md`가 폴더 루트에 있는지 확인하게 할 수도 있습니다.
 
 ---
 
-## Layout
+## 사용
+
+1. 일어난 일을 붙여 넣는다(한 줄, rant, 요약 — 무엇이든).
+2. **하나**의 게시 블록만 받는다. 정방향 모드에서는 서문 없음.
+3. 다른 사람 글 디코드: `--reverse`, `--reality`, 또는 평문으로 요청.
+
+플래그: `--no-easter-egg` / `--easter-egg` — [SKILL.md](SKILL.md) §4 참고.
+
+---
+
+## 구조
 
 ```
 linkedin-skill/
@@ -347,6 +341,6 @@ linkedin-skill/
 
 ---
 
-MIT License — see [LICENSE](LICENSE).
+MIT 라이선스 — [LICENSE](LICENSE) 참고.
 
-*For people who know the gap between what happened and what gets posted.*
+*무슨 일이 있었는지와 무엇이 올라가는지 사이의 간격을 아는 사람들을 위해.*

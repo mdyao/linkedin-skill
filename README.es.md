@@ -1,20 +1,18 @@
-<div align="center">
-
 # linkedin-skill
 
-### *Nothing fails. It just hasn’t been narrated correctly yet.*
+### *Nada falla. Solo aún no se ha narrado bien.*
 
+<details>
 
+> Con suficiente trabajo relacionado, no hay escasez de innovación, solo «cobertura bibliográfica sólida».  
+> Con experimento suficientemente complejo, no hay resultado no significativo, solo «condiciones aún no convergentes».  
+> Con figuras suficientemente pulidas, no hay conclusión débil, solo «observaciones preliminares pero estables».  
+> Con problema suficientemente abierto, no hay imposible, solo «dirección de investigación que merece el largo plazo».  
+> Con encaje suficientemente vago, no hay inadecuación, solo «espacio de ajuste aún en exploración».  
+> Con objetivo suficientemente largo, no hay resultado a corto plazo, solo «paciencia estratégica».  
+> Con el rumbo siempre ajustándose, no hay camino equivocado, solo «proceso de decisión optimizado dinámicamente».
 
-> 只要相关工作够多，就没有创新不足，只有「扎实的文献覆盖」。  
-> 只要实验够复杂，就没有结果不显著，只有「尚未收敛的实验条件」。  
-> 只要图画得够精致，就没有结论薄弱，只有「初步但稳定的观察结果」。  
-> 只要问题够开放，就没有做不出来，只有「值得长期探索的研究方向」。  
-> 只要匹配度够模糊，就没有不合适，只有「仍在探索的契合空间」。  
-> 只要目标够长期，就没有短期结果，只有「战略层面的耐心」。  
-> 只要方向一直在调整，就没有走错路，只有「动态优化的决策过程」。
-
-
+</details>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/repo-linkedin--skill-blue?logo=github)](https://github.com/mdyao/linkedin-skill)
@@ -28,28 +26,25 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-teal)](https://github.com/mdyao/linkedin-skill)
 [![Hermes](https://img.shields.io/badge/Hermes-skill-orange)](https://github.com/mdyao/linkedin-skill)
 
-别说加班，那叫 **high-frequency human capital deployment**。
+No digas horas extra: es **high-frequency human capital deployment**.
 
-那叫 **high-frequency human capital deployment**。
+Es **high-frequency human capital deployment**.
 
-别说被裁，那是 **career-path decentralization**。
+No digas despido: es **career-path decentralization**.
+
+No digas burnout: es **deep-tissue organizational empathy 
+building**.
 
 
-别说崩溃，那是 **deep-tissue organizational empathy 
-building**。
+**linkedin-skill** no arregla la realidad. Arregla **cómo se permite que suene la realidad**.
 
+**Idiomas** · [![](https://img.shields.io/badge/English-555555?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-2ea44f?style=flat-square)](README.es.md)
 
-**linkedin-skill** doesn’t fix reality. It fixes how reality is allowed to sound.
-
-**Languages** · [![](https://img.shields.io/badge/English-2ea44f?style=flat-square)](README.md) [![](https://img.shields.io/badge/简体中文-555555?style=flat-square)](README.zh.md) [![](https://img.shields.io/badge/日本語-555555?style=flat-square)](README.ja.md) [![](https://img.shields.io/badge/Deutsch-555555?style=flat-square)](README.de.md) [![](https://img.shields.io/badge/한국어-555555?style=flat-square)](README.ko.md) [![](https://img.shields.io/badge/Français-555555?style=flat-square)](README.fr.md) [![](https://img.shields.io/badge/Português-555555?style=flat-square)](README.pt.md) [![](https://img.shields.io/badge/Español-555555?style=flat-square)](README.es.md)
-
-[Demo](#demo) · [What it is](#what-it-is) · [Triggers](#triggers) · [References](#reference-stack) · [Install](#install) · [Usage](#usage)
-
-</div align="center">
+[Demo](#demo) · [Qué es](#qué-es) · [Disparadores](#disparadores) · [Pila de referencia](#pila-de-referencia) · [Instalación](#instalación) · [Uso](#uso)
 
 ## Demo
 
-### Examples
+### Ejemplos
 
 ```text
 /linkedin I did nothing today
@@ -150,7 +145,7 @@ opportunity to demonstrate ownership beyond the clock. 🙏🚀
 #Leadership #Ownership #TeamFirst #GrowthMindset
 ```
 
-### Not work (still cursed)
+### No es trabajo (pero sigue maldito)
 
 ```text
 /linkedin I ate a cookie
@@ -235,66 +230,66 @@ role. Stay tuned for more updates on this exciting venture! 👶✨🙏
 #NewBeginnings #GrowthMindset #WorkLifeBalance #NextChapter
 ```
 
-### `--reverse`（Stay tuned）
+### `--reverse` (Próximamente)
 
 
 ```
 User     ❯ /linkedin --reverse "After 7 incredible years, I've made the difficult
            decision to begin the next chapter... #NewBeginnings"
 
-linkedin ❯ He got laid off (or resigned right before being pushed out). Seven years,
-           no next role named — that's the tell. 👀
+linkedin ❯ Le despidieron (o dimitió justo antes del empujón). Siete años, sin el
+           siguiente rol nombrado — ahí está la pista. 👀
 
            #RealTalk
 ```
 
 
-More: [SKILL.md §6](SKILL.md) · [references/examples.md](references/examples.md)
+Más: [SKILL.md §6](SKILL.md) · [references/examples.md](references/examples.md)
 
 ---
 
-## What it is
+## Qué es
 
 | | |
 |--|--|
-| **Is** | A translator that doesn’t fix what happened — only how convincingly it can be explained. |
-| **Is not** | It won’t help you grow. It helps you **sound like you already did**. |
+| **Es** | Un traductor que no arregla lo que pasó — solo **con qué convicción** puede explicarse. |
+| **No es** | No te ayuda a crecer. Te ayuda a **sonar como si ya hubieras crecido**. |
 
-Full spec: **[SKILL.md](SKILL.md)** (triggers, workflow, easter-egg hashtags, changelog).
+Especificación completa: **[SKILL.md](SKILL.md)** (disparadores, flujo, hashtags easter egg, changelog).
 
 ---
 
-## Triggers
+## Disparadores
 
-| Input | Result |
+| Entrada | Resultado |
 |--------|--------|
-| **`/linkedin <text>`** | Forward: press-release tone (English, or Chinese if input is Chinese), upbeat, **3–7 hashtags**. |
-| **`/linkedin --reverse`** / **`--reality`** + text | Decode: plain-English best guess. |
-| Natural language | *LinkedInify* / *领英体* → forward · *说人话* / *decode* → reverse |
+| **`/linkedin <texto>`** | Adelante: tono de nota de prensa (inglés, o chino si la entrada es en chino), optimista, **3–7 hashtags**. |
+| **`/linkedin --reverse`** / **`--reality`** + texto | Decodificar: mejor suposición en inglés llano. |
+| Lenguaje natural | *LinkedInify* / *领英体* → adelante · *说人话* / *decode* → reverso |
 
 ---
 
-## Reference stack
+## Pila de referencia
 
-| File | Role |
+| Archivo | Papel |
 |------|------|
-| [style-guide.md](references/style-guide.md) | Openers, inflation, tone |
-| [rhetoric-patterns.md](references/rhetoric-patterns.md) | Short / Long / Humble-brag |
-| [vocabulary.md](references/vocabulary.md) | Jargon ↔ plain mapping |
-| [examples.md](references/examples.md) | Voice calibration samples |
-| [anti-patterns.md](references/anti-patterns.md) | Too human, missing hashtags, etc. |
+| [style-guide.md](references/style-guide.md) | Aperturas, inflación, tono |
+| [rhetoric-patterns.md](references/rhetoric-patterns.md) | Corto / Largo / Humilde-orgullo |
+| [vocabulary.md](references/vocabulary.md) | Jerga ↔ lenguaje claro |
+| [examples.md](references/examples.md) | Muestras de calibración de voz |
+| [anti-patterns.md](references/anti-patterns.md) | Demasiado humano, faltan hashtags, etc. |
 
 ---
 
-## Install
+## Instalación
 
-**Needs:** Git (or ZIP). No `pip`, no API keys — only `SKILL.md` + `references/`.
+**Necesitas:** Git (o ZIP). Sin `pip`, sin claves API — solo `SKILL.md` + `references/`.
 
 ```bash
 git clone https://github.com/mdyao/linkedin-skill.git
 ```
 
-Put the folder where your host loads skills. **`SKILL.md` must stay at the repo root.**
+Coloca la carpeta donde el host cargue skills. **`SKILL.md` debe permanecer en la raíz del repo.**
 
 | Host | POSIX | Windows |
 |------|-------|---------|
@@ -302,9 +297,9 @@ Put the folder where your host loads skills. **`SKILL.md` must stay at the repo 
 | Codex | `~/.codex/skills/linkedin-skill` | `%USERPROFILE%\.codex\skills\linkedin-skill` |
 | Claude Code | `~/.claude/skills/linkedin-skill` | `%USERPROFILE%\.claude\skills\linkedin-skill` |
 | OpenClaw | `~/.openclaw/workspace/skills/linkedin-skill` | `%USERPROFILE%\.openclaw\workspace\skills\linkedin-skill` |
-| Hermes | Your docs’ `skills/` path, as `linkedin-skill/` | same idea |
+| Hermes | Ruta `skills/` de vuestra doc como `linkedin-skill/` | misma idea |
 
-Symlink (optional):
+Enlace simbólico (opcional):
 
 ```bash
 ln -s ~/src/linkedin-skill ~/.cursor/skills/linkedin-skill
@@ -314,23 +309,23 @@ ln -s ~/src/linkedin-skill ~/.cursor/skills/linkedin-skill
 New-Item -ItemType Junction -Path "$env:USERPROFILE\.cursor\skills\linkedin-skill" -Target "D:\github_repo\linkedin-skill"
 ```
 
-Reload the agent / workspace. Smoke test: one post block (English or Chinese per input), 3–7 hashtags, no “here’s your translation” wrapper ([SKILL.md](SKILL.md) §5–§6).
+Recarga el agente / workspace. Prueba rápida: un bloque de post (inglés o chino según entrada), 3–7 hashtags, sin envoltorio tipo «aquí está tu traducción» ([SKILL.md](SKILL.md) §5–§6).
 
-You can also ask your agent: clone this repo into the correct skills directory and confirm `SKILL.md` is at the folder root.
-
----
-
-## Usage
-
-1. Paste what happened (one line, rant, recap — anything).
-2. Get **one** post block; no preamble in forward mode.
-3. Decode someone else’s post: `--reverse`, `--reality`, or ask in plain language.
-
-Flags: `--no-easter-egg` / `--easter-egg` — see [SKILL.md](SKILL.md) §4.
+También puedes pedir al agente: clonar este repo en el directorio de skills correcto y confirmar que `SKILL.md` está en la raíz de la carpeta.
 
 ---
 
-## Layout
+## Uso
+
+1. Pega lo que pasó (una línea, rant, resumen — lo que sea).
+2. Obtén **un** bloque de post; sin preámbulo en modo hacia adelante.
+3. Decodifica el post de otra persona: `--reverse`, `--reality`, o pide en lenguaje claro.
+
+Banderas: `--no-easter-egg` / `--easter-egg` — ver [SKILL.md](SKILL.md) §4.
+
+---
+
+## Estructura
 
 ```
 linkedin-skill/
@@ -347,6 +342,6 @@ linkedin-skill/
 
 ---
 
-MIT License — see [LICENSE](LICENSE).
+Licencia MIT — ver [LICENSE](LICENSE).
 
-*For people who know the gap between what happened and what gets posted.*
+*Para quienes conocen la brecha entre lo que pasó y lo que se publicó.*
